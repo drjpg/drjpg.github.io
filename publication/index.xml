@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Julio Pastor-Guzman</title>
+    <link>https://drjpg.github.io/publication/</link>
+    <description>Recent content in Publications on Julio Pastor-Guzman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://drjpg.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Remote sensing of mangrove forest phenology and its environmental drivers</title>
+      <link>https://drjpg.github.io/publication/2018-01-01_remote_sensing_of_ma/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://drjpg.github.io/publication/2018-01-01_remote_sensing_of_ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal variation in mangrove chlorophyll concentration using Landsat 8</title>
+      <link>https://drjpg.github.io/publication/2015-01-01_spatiotemporal_varia/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://drjpg.github.io/publication/2015-01-01_spatiotemporal_varia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

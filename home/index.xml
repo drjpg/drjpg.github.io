@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Julio Pastor-Guzman</title>
+    <link>https://drjpg.github.io/home/</link>
+    <description>Recent content in Homes on Julio Pastor-Guzman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://drjpg.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://drjpg.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://drjpg.github.io/home/about/</guid>
+      <description>Biography Julio Pastor-Guzman has a PhD in Physical Geography from the University of Southampton, UK. His research interests include remote sensing of vegetation phenology, validation of satellite land products and applications of optical satellites. Other interests include coding for data analaysis, visualisations -and learning new stuff.</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://drjpg.github.io/home/skills/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://drjpg.github.io/home/skills/</guid>
+      <description> Programming languages:  R (high proficiency - package developer level) Python (decent knowledge) MATLAB (able to go by) C++ (learning) JavaScript (basic stuff)  Applications  RStudio, Visual Studio Code, SQL, MySQL, Tableau  Languages  English Spanish French (B1)  </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://drjpg.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://drjpg.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://drjpg.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://drjpg.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://drjpg.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://drjpg.github.io/home/teaching/</guid>
+      <description> GEOG2007 Remote Sensing for Earth Observation.  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://drjpg.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://drjpg.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

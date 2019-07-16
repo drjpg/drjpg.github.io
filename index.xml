@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julio Pastor-Guzman on Julio Pastor-Guzman</title>
+    <link>https://drjpg.github.io/</link>
+    <description>Recent content in Julio Pastor-Guzman on Julio Pastor-Guzman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello</title>
+      <link>https://drjpg.github.io/post/hello/</link>
+      <pubDate>Wed, 10 Jul 2019 15:30:07 +0100</pubDate>
+      
+      <guid>https://drjpg.github.io/post/hello/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remote sensing of mangrove forest phenology and its environmental drivers</title>
+      <link>https://drjpg.github.io/publication/2018-01-01_remote_sensing_of_ma/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://drjpg.github.io/publication/2018-01-01_remote_sensing_of_ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal variation in mangrove chlorophyll concentration using Landsat 8</title>
+      <link>https://drjpg.github.io/publication/2015-01-01_spatiotemporal_varia/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://drjpg.github.io/publication/2015-01-01_spatiotemporal_varia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FRM4VEG</title>
+      <link>https://drjpg.github.io/project/frm4veg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://drjpg.github.io/project/frm4veg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GBOV</title>
+      <link>https://drjpg.github.io/project/gbov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://drjpg.github.io/project/gbov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IBLI</title>
+      <link>https://drjpg.github.io/project/ibli/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://drjpg.github.io/project/ibli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ImageNorm</title>
+      <link>https://drjpg.github.io/project/imagenorm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://drjpg.github.io/project/imagenorm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S3MPC</title>
+      <link>https://drjpg.github.io/project/s3mpc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://drjpg.github.io/project/s3mpc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
